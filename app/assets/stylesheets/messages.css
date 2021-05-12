@@ -118,7 +118,7 @@
   display: flex;
 }
 
-.contact-form {
+.form-input {
   background-color: white;
   display: flex;
   width: 100%;
@@ -131,7 +131,7 @@
   height: 50px;
 }
 
-.send {
+.form-submit {
   font-size: 16px;
   color: white;
   background-color: #38AEF0;
